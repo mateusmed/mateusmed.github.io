@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="537eafd1-2cce-4753-8301-12e33d39b5ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/icons/linkdin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -13,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -31,7 +36,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\workspaceMateus\mateusmed.github.io" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
@@ -45,11 +56,25 @@
       <option name="presentableId" value="Default" />
       <updated>1614885776943</updated>
       <workItem from="1614885778219" duration="929000" />
-      <workItem from="1684266507095" duration="61000" />
+      <workItem from="1684266507095" duration="18024000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="338" y="-908" key="DiffContextDialog" timestamp="1684267804464">
+      <screen x="0" y="-1080" width="1920" height="1032" />
+    </state>
+    <state x="338" y="-908" key="DiffContextDialog/0.0.1536.816/0.-1080.1920.1032@0.-1080.1920.1032" timestamp="1684267804464" />
+    <state x="754" y="-853" key="RollbackChangesDialog" timestamp="1684267832384">
+      <screen x="0" y="-1080" width="1920" height="1032" />
+    </state>
+    <state x="754" y="-853" key="RollbackChangesDialog/0.0.1536.816/0.-1080.1920.1032@0.-1080.1920.1032" timestamp="1684267832384" />
+    <state x="591" y="-867" width="737" height="606" key="find.popup" timestamp="1684269648272">
+      <screen x="0" y="-1080" width="1920" height="1032" />
+    </state>
+    <state x="591" y="-867" width="737" height="606" key="find.popup/0.0.1536.816/0.-1080.1920.1032@0.-1080.1920.1032" timestamp="1684269648272" />
   </component>
 </project>

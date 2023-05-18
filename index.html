@@ -2,43 +2,35 @@
 <html>
 <head>
     <title>mateusmed</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #000;
-            color: #fff;
-            margin: 0;
-            padding: 0;
-        }
-
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            text-align: center;
-        }
-
-        h1 {
-            font-size: 48px;
-            margin-top: 0;
-        }
-
-        p {
-            font-size: 24px;
-        }
-
-        .gif-container {
-            margin-top: 40px;
-        }
-    </style>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="UTF-8">
 </head>
 <body>
 <div class="container">
-    <h1>Bem-vindo</h1>
-    <p>Prepare-se para uma experiência única...</p>
-    <div class="gif-container">
-        <img src="https://giphy.com/clips/bestfriends-Z3e2HuMMqqSLmN5Qqu" alt="GIF">
+    <h1 class="title">Bem-vindo</h1>
+    <div class="content">
+
+        <div id="animated-text-left">
+        </div>
+
+        <div class="gif-container">
+            <iframe allow="fullscreen"
+                    frameBorder="0"
+                    height="480"
+                    src="https://giphy.com/embed/Z3e2HuMMqqSLmN5Qqu/video" width="480">
+            </iframe>
+
+            <a href="https://www.linkedin.com/in/mateus-medeiros-14a038164/" target="_blank">
+                <img src="./icons/linkdin.svg" alt="LinkedIn">
+            </a>
+
+        </div>
+
+        <div id="animated-text-right">
+        </div>
     </div>
 </div>
+
+<script src="script.js"></script>
 </body>
 </html>
